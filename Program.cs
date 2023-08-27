@@ -3,7 +3,7 @@
 class Program {
     static async Task Main(string[] args){
         Console.WriteLine("Downloading...");
-        await DownloadFileAsync("https://github.com/treviasxk/Nethostfire/archive/refs/heads/master.zip", "Nethostfire.zip");
+        await DownloadFileAsync("http://localhost/data/builds/android/pack1.zip", "Nethostfire.zip");
         Console.ReadKey();
     }
 
@@ -36,7 +36,7 @@ class Program {
                 fileStream.Seek(skip, SeekOrigin.Current);
                 while(fileStream.Length < sizePart + skip){
                     int bytesRead = 0;
-                    bytesRead = await stream.ReadAsync(buffer, 0, 1024);
+                    bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length > 1024 ? 1024 : buffer.Length);
                     if(bytesRead == 0)
                         continue;
                     await fileStream.WriteAsync(buffer, 0, bytesRead);
