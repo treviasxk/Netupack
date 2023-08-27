@@ -13,3 +13,17 @@ C:\Users\trevi\OneDrive\Documentos\Github\Netupack\obj\Debug\net7.0\refint\Netup
 C:\Users\trevi\OneDrive\Documentos\Github\Netupack\obj\Debug\net7.0\Netupack.pdb
 C:\Users\trevi\OneDrive\Documentos\Github\Netupack\obj\Debug\net7.0\Netupack.genruntimeconfig.cache
 C:\Users\trevi\OneDrive\Documentos\Github\Netupack\obj\Debug\net7.0\ref\Netupack.dll
+C:\Users\trevi\Documents\Github\Netupack\bin\Debug\net7.0\Netupack.exe
+C:\Users\trevi\Documents\Github\Netupack\bin\Debug\net7.0\Netupack.deps.json
+C:\Users\trevi\Documents\Github\Netupack\bin\Debug\net7.0\Netupack.runtimeconfig.json
+C:\Users\trevi\Documents\Github\Netupack\bin\Debug\net7.0\Netupack.dll
+C:\Users\trevi\Documents\Github\Netupack\bin\Debug\net7.0\Netupack.pdb
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\Netupack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\Netupack.AssemblyInfoInputs.cache
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\Netupack.AssemblyInfo.cs
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\Netupack.csproj.CoreCompileInputs.cache
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\Netupack.dll
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\refint\Netupack.dll
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\Netupack.pdb
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\Netupack.genruntimeconfig.cache
+C:\Users\trevi\Documents\Github\Netupack\obj\Debug\net7.0\ref\Netupack.dll

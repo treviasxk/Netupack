@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trevi\\OneDrive\\Documentos\\Github\\Netupack\\Netupack.csproj": {}
+    "C:\\Users\\trevi\\Documents\\Github\\Netupack\\Netupack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trevi\\OneDrive\\Documentos\\Github\\Netupack\\Netupack.csproj": {
+    "C:\\Users\\trevi\\Documents\\Github\\Netupack\\Netupack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trevi\\OneDrive\\Documentos\\Github\\Netupack\\Netupack.csproj",
+        "projectUniqueName": "C:\\Users\\trevi\\Documents\\Github\\Netupack\\Netupack.csproj",
         "projectName": "Netupack",
-        "projectPath": "C:\\Users\\trevi\\OneDrive\\Documentos\\Github\\Netupack\\Netupack.csproj",
+        "projectPath": "C:\\Users\\trevi\\Documents\\Github\\Netupack\\Netupack.csproj",
         "packagesPath": "C:\\Users\\trevi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trevi\\OneDrive\\Documentos\\Github\\Netupack\\obj\\",
+        "outputPath": "C:\\Users\\trevi\\Documents\\Github\\Netupack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trevi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\trevi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
